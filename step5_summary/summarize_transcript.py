@@ -2,7 +2,7 @@ import requests
 import textwrap
 import os
 
-API_KEY = "d264abccbf274ace035f86de8283252390e9f242"
+API_KEY = "NLP API KEY"
 
 MODEL = "finetuned-llama-3-70b"  # if unavailable, use "bart-large-cnn"
 
@@ -79,3 +79,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
