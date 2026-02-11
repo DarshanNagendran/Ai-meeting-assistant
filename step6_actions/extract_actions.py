@@ -3,7 +3,7 @@ import textwrap
 from groq import Groq
 
 # 🔐 Groq API Key
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "API KEY"
 
 # 🤖 Model (FAST + FREE TIER)
 MODEL = "llama-3.1-8b-instant"
@@ -101,3 +101,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
